@@ -1,4 +1,4 @@
-
+#test
 # we now will keep track of player wins / losses/ draws/ whatever
 default persistent._mas_chess_stats = {"wins": 0, "losses": 0, "draws": 0}
 
