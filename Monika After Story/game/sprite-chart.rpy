@@ -15646,6 +15646,54 @@ image monika ATL_love:
 
         repeat
 
+image monika ATL_love_too_enam_plus:
+    block:
+        choice 0.10:
+            "monika 1hua"
+        choice 0.10:
+            "monika 1huu"
+        choice 0.05:
+            "monika 1sua"
+        choice 0.10:
+            "monika 1ekbsu"
+        choice 0.10:
+            "monika 1ekbsa"
+        choice 0.10:
+            "monika 1dkbsu"
+        choice 0.10:
+            "monika 1dubsu"
+        choice 0.05:
+            "monika 1subsa"
+        choice 0.10:
+            "monika 1dkbsa"
+        choice 0.10:
+            "monika 5ekbsa"
+        choice 0.10:
+            "monika 5esu"
+
+image monika ATL_love_too_norm_plus:
+    block:
+        choice 0.10:
+            "monika 1hua"
+        choice 0.10:
+            "monika 1huu"
+        choice 0.10:
+            "monika 1ekbsu"
+        choice 0.10:
+            "monika 1ekbsa"
+        choice 0.10:
+            "monika 1dkbsu"
+        choice 0.10:
+            "monika 1dubsu"
+        choice 0.10:
+            "monika 1dkbsa"
+        choice 0.10:
+            "monika 5ekbsa"
+        choice 0.10:
+            "monika 5esu"
+        choice 0.10:
+            "monika 5eka"
+
 
 ### [IMG050]
 # condition-switched images for old school image selecting
